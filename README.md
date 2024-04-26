@@ -3,6 +3,7 @@ This project is part of Udacity Business Analysts Nanodegree, in this project, I
 # About the data set
 The data set used in this project is YouTube Data US from Kaggle.
 # What Questions that will be answered?
-1-WHICH STATE HAS THE HIGHEST VIEWS?
-2-How do the average views change over the years?
-3-Which Category do viewers prefer?
+
+- WHICH STATE HAS THE HIGHEST VIEWS?
+- How do the average views change over the years?
+- Which Category do viewers prefer?
